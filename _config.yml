@@ -4,6 +4,9 @@ description: Sitio DAV
 google_analytics: null
 google_verification: null
 
+baseurl: '/sitio.audiovisual'
+url: 'https://tasken.github.io'
+
 # Sass
 sass:
   style: :compressed
