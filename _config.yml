@@ -1,0 +1,17 @@
+# My variables
+name: Augusto Daniele
+description: Sitio DAV
+google_analytics: null
+google_verification: null
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
