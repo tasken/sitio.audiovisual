@@ -1,6 +1,5 @@
-# My variables
-name: Augusto Daniele
-description: Sitio DAV
+name: Ensayo virtual | Augusto Daniele
+description: Ensayo virtual para la materia DAV, FADU-UBA 2016
 google_analytics: null
 google_verification: null
 
@@ -11,10 +10,3 @@ url: 'https://tasken.github.io'
 sass:
   style: :compressed
   sass_dir: _sass
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
