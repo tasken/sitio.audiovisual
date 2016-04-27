@@ -156,6 +156,7 @@ ul {
         img {
             margin-top: 10px;
             margin-bottom: 10px;
+            border-radius: 6px;
             @media screen and (max-width: $br) {
                 width: 100%;
                 margin: auto;
