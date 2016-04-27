@@ -50,3 +50,16 @@ ol {
     margin-left: 1em;
     font-size: .8em;
 }
+
+h2#bibliografa {
+    margin-bottom: .5em;
+}
+
+#bibliografa + ul {
+    font-size: .8em;
+    margin-left: 1em;
+}
+
+#bibliografa + ul > li {
+    padding: 0;
+}
