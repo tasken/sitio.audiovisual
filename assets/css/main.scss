@@ -125,9 +125,9 @@ ul {
             // text-align: justify;
         }
         a {
-            text-decoration: underline;
+            text-decoration: none;
             &:hover {
-                font-weight: bold;
+                text-decoration: underline;
             }
         }
         strong {
