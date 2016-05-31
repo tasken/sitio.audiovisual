@@ -77,3 +77,8 @@ pre.highlight {
     font-size: .6em;
     overflow: hidden;
 }
+
+abbr {
+    border-bottom: 1px dotted #888;
+    cursor: help;
+}
